@@ -13,3 +13,4 @@ Documentation update.
 <!-- update 4399 -->
 # Note
 Update 4630.
+Entry 9278: minor update.
